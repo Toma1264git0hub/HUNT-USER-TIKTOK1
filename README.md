@@ -9,5 +9,5 @@ git clone https://github.com/Toma1264git0hub/HUNT-USER-TIKTOK1.git
 cd HUNT-USER-TIKTOK1
 ```
 ```bash
-python Tomas.py
+python TOMAS.py
 ```
