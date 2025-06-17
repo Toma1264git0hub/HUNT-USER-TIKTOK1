@@ -1,8 +1,4 @@
-import socket
-import time
-import requests
-
-Tomas1 = "6937908213:AAHo6Kv__18vQBxzA5mlZhJ1-F95nsR8tC4"
+im8tC4"
 Tomas2 = "5332956497"
 
 def get_real_ip():
